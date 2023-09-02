@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+ <h1> 
+
+THEME ADMIN
+</h1>
+<div class="navbar">
+  <a class="active" href="Home page.html">Home</a>
+  <a href="Accounting.html">Accounting</a>
+
+
+<div class="dropdown">
+    <li class="dropbtn">Setting
+      <i class="fa fa-caret-down"></i>
+    </li>
+    <div class="dropdown-content">
+      <a href=""></a>
+      <a href=""></a>
+      <a href=""></a>
+      <a href=""></a>
+      <a href=""></a>
+    </div>
+  </div>
+  </div> 
+</body>
+<link rel="stylesheet" href="CSS.css">
+
+</html>
