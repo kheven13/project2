@@ -1,5 +1,5 @@
 button {
-  width: 20vw;
+  width: 400px;
   margin: 5px;
   align-items: center;
   appearance: none;
@@ -12,8 +12,8 @@ button {
   cursor: pointer;
   font-family: "JetBrains Mono",monospace;
   height: 50px;
+  left:5%;
   position: relative;
-  left: 5%;
   justify-content: center;
   line-height: 1;
   list-style: none;
