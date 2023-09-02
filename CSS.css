@@ -6,7 +6,7 @@ div.background {
   position:absolute;
 }
 
-div.background pre {
+div.background p {
  font-family: "Times New Roman", Times, serif;
  font-size:60px;
  font-weight: bold; 
