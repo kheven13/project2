@@ -3,27 +3,24 @@ div.background {
   background-size:cover;
   height:1000px;
   width:100%;
+  position:absolute;
 }
 
-div.transbox {
-  background-color: #ffffff;
-  opacity: 0.35;
- height:1000px;
- width:100%;
-}
-
-div.background p {
- font-size: 4vw; 
- margin: 5px;
- color:white;
+div.background pre {
+ font-family: "Times New Roman", Times, serif;
+ font-size:60px;
+ font-weight: bold; 
+ margin:0;
+ color:black;
  position:relative;
- left:10%;
+ background-color: #f2f2f2;
+ opacity:0.5;
 }
 h3 {
-  left:50px;
+  left:100px;
   position:absolute;
   max-width:50%;
-  top:300px;
+  top:250px;
 }
 button {
   width: auto;
@@ -40,7 +37,6 @@ button {
   font-family: "JetBrains Mono",monospace;
   height: 50px;
   position: relative;
-  left: 5%;
   justify-content: center;
   line-height: 1;
   list-style: none;
@@ -54,7 +50,7 @@ button {
   touch-action: manipulation;
   white-space: nowrap;
   will-change: box-shadow,transform;
-  font-size: 1vw;
+  font-size: 20px;
   justify-content: center;
 }
 
